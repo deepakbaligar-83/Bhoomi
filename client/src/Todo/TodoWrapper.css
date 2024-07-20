@@ -1,0 +1,83 @@
+
+
+.tdch1 {
+  color: black;
+  margin-bottom: 0.5rem;
+  font-size: 1.75rem;
+}
+
+.TodoWrapper {
+  background: azure;
+  width: 380px;
+  height: 320px;
+  margin-top: 5rem;
+  padding: 2rem;
+  border-radius: 20px;
+  position: absolute;
+  top:-4px;
+  right:415px;
+
+  border: 0.5px solid #B4B4B8;
+}
+
+.TodoForm {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.todo-input {
+  outline: none;
+  background: none;
+  border: 1px solid #132a13;
+  padding: 0.5rem 1rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 300px;
+  color: black;
+}
+
+.todo-input::placeholder {
+  color: black;
+}
+
+.todo-btn {
+  background: #132a13;
+  color: #fff;
+  border: none;
+  padding: 9.5px;
+  cursor: pointer;
+  margin-left: -70px;
+}
+
+.Todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #132a13;
+  color: #fff;
+  width: 310px;
+  padding: 0.75rem 1rem;
+  border-radius: 5px;
+  margin-bottom: 2px;
+}
+
+.fa-trash {
+  margin-left: 0.75rem;
+}
+
+.incompleted {
+  color: #fff;
+  cursor: pointer;
+}
+
+.completed {
+  color: #c5aeff;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+.edit-icon,
+.delete-icon {
+  cursor: pointer;
+}
+ 

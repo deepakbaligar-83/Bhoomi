@@ -1,0 +1,45 @@
+.fertilizer-container {
+    max-width: 600px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left: 610px;
+  }
+  
+  .fertilizer-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .fertilizer-form {
+    display: flex;
+    flex-direction: column;
+
+  }
+  
+  .fertilizer-form label {
+    margin-bottom: 10px;
+  }
+  
+  .fertilizer-form input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+  }
+  
+  .recommend-button {
+    background-color: darkgreen;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .recommended-fertilizer {
+    margin-top: 20px;
+  }
+  

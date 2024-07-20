@@ -1,0 +1,104 @@
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width:410px;
+    height: 320px;
+    background-color: azure;
+    border: 0.5px solid #B4B4B8;
+    border-radius: 25px;
+    margin-top: 263px;
+    margin-left: 310px;
+}
+
+.weather-data {
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.w1{
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+.tempch1{
+     font-size: 26px;
+     font-weight: bold;
+     margin-top: 23px;
+     margin-right: 50px;
+     margin-left: -90px;
+}
+
+.date-info{
+    margin-left: -90px;
+}
+
+.tempp1{
+    margin-left: -89px;
+    color: #B4B4B8;
+    font-size: 15px;
+}
+
+.week{
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.date{
+    display: flex;
+    color: #B4B4B8;
+}
+
+.wp{
+    margin-top: 30px;
+    font-size: 18px;
+    color: #B4B4B8;
+    margin-bottom: 5px;
+}
+
+.ictp1{
+      color: #B4B4B8;
+      margin-right: 5px;
+      margin-top: -5.0px; 
+}
+
+.ictp2{
+    color: #B4B4B8;
+    margin-right: 6px;
+    margin-top: 5px; 
+}
+
+
+
+.ictp{
+    height: 30px;
+    width: 22px;
+    color: #B4B4B8;
+    margin-left: 5px;
+    margin-top: 17px; 
+    margin-right: 5px;
+
+}
+
+.w{
+    margin-top: 20px; 
+    margin-right: 40px;
+}
+
+.w1{
+    margin-right: 37px;
+}
+
+.tempy{
+    
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.inside{
+    margin-left: -137px;
+    margin-top: 99px;
+}

@@ -1,0 +1,55 @@
+/* CommunityForum.css */
+
+.community-forum {
+   width: 500px;
+   height: 500px;
+    margin-left: 500px;
+    background-color: white;
+    padding: 20px;
+    margin-top: 70px ;
+    margin-left: 530px;
+    border-radius: 5px;
+  }
+  
+  .create-thread, .threads {
+    margin-bottom: 20px;
+  }
+  
+  .sugh1{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 130px;
+  }
+  
+ 
+  
+  .sug-submit {
+    padding: 10px 20px;
+    background-color: #1b591c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .sug-submit:hover {
+   opacity: 0.7;
+  }
+  
+  .thread, .reply-form {
+    margin-bottom: 20px;
+  }
+  
+  .reply-form textarea {
+    margin-bottom: 5px;
+  }
+
+  .sug-input{
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+
+  }
+  

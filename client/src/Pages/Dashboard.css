@@ -1,0 +1,197 @@
+ /* .dashboard-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}  */
+
+.dashboard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+  
+
+
+.content {
+    display: flex;
+    flex: 1;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 290px;
+    background-color: #132a13;
+    color: antiquewhite;
+    border-radius: 1px;
+}
+
+
+
+.topbar {
+    position: fixed;
+    left: 290px; 
+    top: 0;
+    width: calc(100% - 290px); 
+    background-color: none;
+    z-index: 1;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.user-photo {
+    height: 45px;
+    width: 45px;
+    border-radius: 100px;
+    margin-left: 990px;
+    margin-right: 10px;
+}
+
+.username {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-name {
+    font-size: 18px;
+    
+}
+
+.user-name1 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.dropdown-divider {
+    border: none;
+    border-top: 1px solid #040404;
+   
+  }
+
+.icondown {
+    margin-left: 10px;
+    height: 15px;
+    width: 15px;
+    padding: 4px;
+    background-color: greenyellow;
+    color: rgb(14, 14, 14);
+    border-radius: 100px;
+}
+
+.icondown:hover {
+    opacity: 0.7;
+}
+
+.user-profile-dropdown {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: absolute;
+    right: 85px;
+    top: 40px;
+    background-color: #F2EFE5;
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+.icon1, .icon2, .icon3, .icon4 {
+    margin-right: 20px;
+    margin-left: 5px;
+}
+
+.up1, .up2, .up3, .up4 {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+}
+
+
+
+.Linechart{
+    margin-top: 20px;
+}
+
+.ProductionComparisonChart{
+    margin-top: 0px;
+}
+
+.sup1{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: Arial;
+    margin-left: 330px;
+    margin-top: 17px;
+    
+}
+
+.connect-img{
+   position: absolute;
+   width: 350px;
+   height: 320px;
+    top:78px;
+   right:  55px;
+   border-radius: 20px;
+}
+
+.link-button{
+    position: absolute;
+    bottom:50px;
+    right:  -400px;
+    
+ }
+
+ .connect-img-box{
+    border-radius: 20px;
+    height: 360px;
+    width: 370px;
+ }
+ 
+ .hover-container {
+    position: relative;
+  }
+  
+  .hover-button {
+    display: none;
+    position: absolute;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: none;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+  }
+  
+  .hover-container:hover .hover-button {
+    display: block;
+  }
+  

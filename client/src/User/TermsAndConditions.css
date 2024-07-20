@@ -1,0 +1,22 @@
+.terms-container {
+  max-width: 800px;
+  margin-top: 20px;
+  margin-left: 350px;
+  margin-bottom: 60px;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+}
+
+.terms-content {
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .terms-container {
+    padding: 10px;
+  }
+}

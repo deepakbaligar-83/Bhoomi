@@ -1,0 +1,200 @@
+/* Login.css */
+
+body {
+  font-family: "Reem Kufi", sans-serif !important;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-content {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  width: 970px;
+  height: 600px; 
+  display: flex;
+}
+
+.login-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-logo {
+  width: 1200px;
+  height: 600px;
+  border-radius: 10px;
+  object-position: 30% 50%;
+  object-fit: cover;
+ 
+}
+
+.login-form {
+  flex: 1;
+  padding: 20px;
+ 
+}
+
+.login-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login-inputs {
+  margin-bottom: 20px;
+}
+
+.login-input {
+  margin-left: 45px;
+  width: 402px;
+  padding: 9px;
+  margin-bottom: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+
+.login-error {
+  color: red;
+  margin-bottom: 10px;
+  margin-left: 45px;
+  font-size: 14px;
+  width: 400px;
+}
+
+.login-button {
+  text-align: center;
+}
+
+.login-btn {
+  width: 400px;
+  padding: 10px;
+  background-color: #343a40;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 25px;
+}
+
+.signup-message  {
+  margin-top: 15px;
+  color: #343a40;
+  text-decoration: none;
+}
+
+.login-button {
+  text-align: center;
+}
+
+.password-input {
+  position: relative;
+}
+
+.password-toggle {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #007bff; /* Blue color for the toggle text */
+}
+
+.show-password-label {
+  display: flex;
+  align-items: center;
+  margin-top: 2px;
+  color: #6c757d; /* Gray color for the checkbox label */
+  font-size: 14px;
+  margin-left:  45px;
+}
+
+.show-password-label input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+.show-password-label:hover {
+  color: #0056b3; /* Darker blue color on hover */
+}
+
+.login-input:focus {
+  border-color: #007bff; /* Blue border color on input focus */
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Blue box shadow on input focus */
+}
+
+
+.hr-lines {
+  position: relative;
+  max-width: 500px;
+  margin-top: 17px;
+  text-align: center;
+  margin-left: -35px;
+}
+
+.hr-lines:before,
+.hr-lines:after {
+  content: " ";
+  height: 2px;
+  width: 170px; /* Adjust the width as needed */
+  background: #27292b;
+  display: block;
+  position: absolute;
+  top: 50%;
+  margin-bottom: 15px;
+}
+
+.hr-lines:before {
+  left: 0;
+  margin-left: 43px; /* Half of the width to center the line */
+}
+
+.hr-lines:after {
+  right: 0;
+  margin-right:43px; /* Half of the width to center the line */
+}
+
+
+
+.welcome{
+  margin-left: 43px;
+  margin-bottom: 5px;
+  font-weight: 800;
+}
+
+
+.google {
+  position: relative;
+  width: 400px;
+  margin-top: 20px;
+  margin-left: -5px;
+}
+
+.google-btn {
+  width: 100%;
+  height: 40px;
+  background-color: orange;
+  color: whitesmoke;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+.google-icon {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+ 
+}
+
+.signup{
+  color: #0056b3;
+  text-decoration: underline;
+}

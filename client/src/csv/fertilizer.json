@@ -1,0 +1,658 @@
+[
+  {
+    "Crop": "Rice",
+    "N": 3,
+    "P": 2,
+    "K": 1,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-5-7"
+  },
+  {
+    "Crop": "Wheat",
+    "N": 2,
+    "P": 3,
+    "K": 1,
+    "pH": 7,
+    "Fertilizer": "NPK 8-12-12"
+  },
+  {
+    "Crop": "Cotton",
+    "N": 1,
+    "P": 2,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 5-10-15"
+  },
+  {
+    "Crop": "Sugarcane",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 6-3-9"
+  },
+  {
+    "Crop": "Maize",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 7-7-7"
+  },
+  {
+    "Crop": "Potato",
+    "N": 3,
+    "P": 1,
+    "K": 2,
+    "pH": 5.5,
+    "Fertilizer": "NPK 12-6-12"
+  },
+  {
+    "Crop": "Barley",
+    "N": 2,
+    "P": 3,
+    "K": 1,
+    "pH": 7.5,
+    "Fertilizer": "NPK 8-12-8"
+  },
+  {
+    "Crop": "Millet",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Sorghum",
+    "N": 1,
+    "P": 2,
+    "K": 2,
+    "pH": 7,
+    "Fertilizer": "NPK 5-10-10"
+  },
+  {
+    "Crop": "Chickpea",
+    "N": 3,
+    "P": 1,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-4-12"
+  },
+  {
+    "Crop": "Lentil",
+    "N": 3,
+    "P": 2,
+    "K": 2,
+    "pH": 7,
+    "Fertilizer": "NPK 10-8-10"
+  },
+  {
+    "Crop": "Peas",
+    "N": 2,
+    "P": 2,
+    "K": 1,
+    "pH": 6,
+    "Fertilizer": "NPK 8-8-6"
+  },
+  {
+    "Crop": "Pigeon Peas",
+    "N": 2,
+    "P": 3,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-12-10"
+  },
+  {
+    "Crop": "Groundnut",
+    "N": 3,
+    "P": 1,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 12-4-12"
+  },
+  {
+    "Crop": "Sesame",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Sunflower",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-6-12"
+  },
+  {
+    "Crop": "Cottonseed",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 7,
+    "Fertilizer": "NPK 8-8-8"
+  },
+  {
+    "Crop": "Rapeseed",
+    "N": 3,
+    "P": 3,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-12-12"
+  },
+  {
+    "Crop": "Mustard",
+    "N": 3,
+    "P": 2,
+    "K": 1,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-6"
+  },
+  {
+    "Crop": "Soybean",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 8-4-8"
+  },
+  {
+    "Crop": "Bajra",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 7,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Jowar",
+    "N": 1,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 5-10-10"
+  },
+  {
+    "Crop": "Turmeric",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-6-12"
+  },
+  {
+    "Crop": "Ginger",
+    "N": 3,
+    "P": 3,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 12-12-8"
+  },
+  {
+    "Crop": "Garlic",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Onion",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 7,
+    "Fertilizer": "NPK 8-4-8"
+  },
+  {
+    "Crop": "Potato",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-10-12"
+  },
+  {
+    "Crop": "Carrot",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 8-6-8"
+  },
+  {
+    "Crop": "Beetroot",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Radish",
+    "N": 3,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-10"
+  },
+  {
+    "Crop": "Spinach",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Cabbage",
+    "N": 3,
+    "P": 3,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-12-12"
+  },
+  {
+    "Crop": "Cauliflower",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Brinjal",
+    "N": 3,
+    "P": 2,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 12-8-10"
+  },
+  {
+    "Crop": "Capsicum",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 8-6-8"
+  },
+  {
+    "Crop": "Tomato",
+    "N": 2,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-12"
+  },
+  {
+    "Crop": "Okra",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 8-4-8"
+  },
+  {
+    "Crop": "Bitter Gourd",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Ridge Gourd",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Snake Gourd",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Bottle Gourd",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Pumpkin",
+    "N": 2,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-12"
+  },
+  {
+    "Crop": "Ladies Finger",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Cucumber",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Grapes",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Banana",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 12-8-10"
+  },
+  {
+    "Crop": "Mango",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Papaya",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 8-4-8"
+  },
+  {
+    "Crop": "Guava",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 8-6-8"
+  },
+  {
+    "Crop": "Apple",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Orange",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Lemon",
+    "N": 3,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-10-10"
+  },
+  {
+    "Crop": "Ginger",
+    "N": 3,
+    "P": 3,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 12-12-12"
+  },
+  {
+    "Crop": "Turmeric",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Clove",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 8-4-8"
+  },
+  {
+    "Crop": "Cinnamon",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 8-4-8"
+  },
+  {
+    "Crop": "Black Pepper",
+    "N": 2,
+    "P": 2,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 10-10-12"
+  },
+  {
+    "Crop": "Cardamom",
+    "N": 3,
+    "P": 3,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-12-12"
+  },
+  {
+    "Crop": "Tobacco",
+    "N": 1,
+    "P": 1,
+    "K": 1,
+    "pH": 6,
+    "Fertilizer": "NPK 4-4-4"
+  },
+  {
+    "Crop": "Tea",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 5.5,
+    "Fertilizer": "NPK 8-8-8"
+  },
+  {
+    "Crop": "Coffee",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Cocoa",
+    "N": 3,
+    "P": 3,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-12-12"
+  },
+  {
+    "Crop": "Coconut",
+    "N": 1,
+    "P": 1,
+    "K": 1,
+    "pH": 6,
+    "Fertilizer": "NPK 4-4-4"
+  },
+  {
+    "Crop": "Cashew",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 8-4-8"
+  },
+  {
+    "Crop": "Almond",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 8-6-8"
+  },
+  {
+    "Crop": "Groundnut",
+    "N": 3,
+    "P": 1,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 12-4-12"
+  },
+  {
+    "Crop": "Cottonseed",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 7,
+    "Fertilizer": "NPK 8-8-8"
+  },
+  {
+    "Crop": "Sesame",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Sunflower",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-6-12"
+  },
+  {
+    "Crop": "Soybean",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6,
+    "Fertilizer": "NPK 8-4-8"
+  },
+  {
+    "Crop": "Castor",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Linseed",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 7,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Jute",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Silk",
+    "N": 1,
+    "P": 1,
+    "K": 1,
+    "pH": 7,
+    "Fertilizer": "NPK 5-5-5"
+  },
+  {
+    "Crop": "Cotton",
+    "N": 1,
+    "P": 2,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 5-10-15"
+  },
+  {
+    "Crop": "Jute",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 10-10-10"
+  },
+  {
+    "Crop": "Rubber",
+    "N": 1,
+    "P": 1,
+    "K": 1,
+    "pH": 6.5,
+    "Fertilizer": "NPK 5-5-5"
+  },
+  {
+    "Crop": "Sugarcane",
+    "N": 2,
+    "P": 1,
+    "K": 2,
+    "pH": 6.5,
+    "Fertilizer": "NPK 6-3-9"
+  },
+  {
+    "Crop": "Tobacco",
+    "N": 1,
+    "P": 1,
+    "K": 1,
+    "pH": 6,
+    "Fertilizer": "NPK 4-4-4"
+  },
+  {
+    "Crop": "Tea",
+    "N": 2,
+    "P": 2,
+    "K": 2,
+    "pH": 5.5,
+    "Fertilizer": "NPK 8-8-8"
+  },
+  {
+    "Crop": "Coffee",
+    "N": 3,
+    "P": 2,
+    "K": 3,
+    "pH": 6,
+    "Fertilizer": "NPK 12-8-12"
+  },
+  {
+    "Crop": "Cocoa",
+    "N": 3,
+    "P": 3,
+    "K": 3,
+    "pH": 6.5,
+    "Fertilizer": "NPK 12-12-12"
+  }
+]

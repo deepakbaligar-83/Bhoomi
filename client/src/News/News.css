@@ -1,0 +1,182 @@
+/* News.css */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  width: 100vw;  /* Full viewport width */
+  position: fixed; /* Ensure it's positioned relative to the viewport */
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Optional: ensure it is on top of other elements */
+}
+
+.news {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.img{
+ margin-top: 958px;
+  margin-left: 290px;
+  width: 1250px;
+}
+.thenews{
+  background-color: #2B4921;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.footer-section {
+  margin-bottom: -20px;
+  position: relative;
+  margin-left: 295px;
+}
+
+.image-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-img {
+  height: 610px;
+  width: 1260px;
+}
+
+.footer {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer p {
+  margin: 5px 0;
+}
+
+.social-icons {
+  display: flex;
+  margin-left: 990px;
+}
+
+.iconne {
+  height: 20px;
+  width: 20px;
+  margin-right: 20px;
+  color: #132a13;
+  cursor: pointer;
+}
+
+.h1-news {
+  margin-top: -250px;
+  margin-left: 990px;
+  font-weight: bold;
+  color: #132a13;
+  margin-bottom: 8px;
+}
+
+.down-section{
+  display: flex;
+  margin-left: 305px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.top-section {
+  /* margin-top: 800px; */
+  margin-left: 300px;
+ 
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  height: 400px; 
+}
+
+.d0{
+ margin-right: 20px;
+ cursor: pointer;
+}
+.d0 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  border-radius: 10px; 
+ 
+}
+
+
+.d1 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+  border-radius: 10px; 
+  cursor: pointer;
+}
+
+ .d2, .d3, .d4, .d5 {
+  margin-top: 10px;
+  margin-right: 10px;
+  width:200px;
+  position: relative;
+  flex: 1;
+  margin-right: 10px; 
+  cursor: pointer;  
+}
+
+.d2 img, .d3 img, .d4 img, .d5 img {
+  width: 1500px;
+  height: 100%;
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+  border-radius: 10px; /* Optional: Add border radius for images */
+}
+
+.image-title {
+  position: absolute;
+  top: 560px;
+  left: 310px;
+  right: 622px;
+  color: #fff;
+  font-size: 1.2rem;
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background for better readability */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.image-title1 {
+  position: absolute;
+  top: 560px;
+  left: 920px;
+  right: 9px;
+  color: #fff;
+  font-size: 1.2rem;
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background for better readability */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.image-title2 {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  right: 11px;
+  color: #fff;
+  font-size: 1.2rem;
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background for better readability */
+  padding: 10px;
+  border-radius: 5px;
+}
+

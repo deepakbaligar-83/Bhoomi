@@ -1,0 +1,125 @@
+  .crop-recommendation-container {
+    margin-left: 350px;
+    width: 1050px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    box-sizing: border-box;
+  }
+  
+  /* Heading styles */
+  .crhp1 {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Input container styles */
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  /* Input styles */
+  label {
+    display: block;
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 5px;
+  }
+  
+  .crop-input{
+    width:650px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .crop-input[type="number"]:focus {
+    border-color: #4caf50;
+  }
+  
+  
+  .recommendsubmit {
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0;
+    width: 580px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 3px;
+  }
+  
+  .recommendsubmit:hover {
+    opacity: 0.9;
+  }
+  
+  /* Result styles */
+  .result-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .result-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+.form-and-result-container {
+    display: flex;
+    justify-content: space-between; /* Aligns items with space between them */
+  }
+  
+
+  .recommendation-form {
+    width: 100%; /* Adjust as needed */
+  }
+  
+  
+  .result-container {
+    width: 45%; /* Adjust as needed */
+  }
+  
+  /* Style for the crop image */
+  .crop-image {
+    width: 100%    ;
+    height: auto;
+    max-width: 400px;
+    border-radius: 8px;
+    margin-left: 5px;
+    margin-top: 30px;
+  }
+  /* Style for the error message */
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .clear-button {
+    background-color: #b8e62c; /* Medium Grey */
+    color: white; /* Dark Green */
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    
+  }
+  
+  .clear-button:hover {
+    opacity: 0.9;
+  }
+  
+  .confetti-container {
+    position: absolute;
+    top: 0;
+    right: 600px;
+    width: 30px; /* Adjust as necessary */
+    height: 100px; /* Adjust as necessary */
+  }

@@ -1,0 +1,27 @@
+.container {
+    
+    background-color: azure;
+    padding: 20px;
+    border: 0.5px solid #B4B4B8;
+    border-radius: 20px;
+    width: 700px;
+    height: 360px;
+    margin-top: 20px;
+    margin-left: 310px;
+    margin-bottom: 50px;
+  }
+  
+  .filter-buttons {
+    margin-bottom: 10px;
+  }
+  
+  .filter-button {
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+
+  .prchp{
+    margin-top: 10px;
+    margin-bottom: 70px;
+  }

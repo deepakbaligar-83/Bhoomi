@@ -1,0 +1,155 @@
+.market-item-grid {
+  display: grid;
+  position: absolute;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 10px;
+  /* margin-top: 800px; */
+  margin-left: 300px;
+  margin-bottom: 200px;
+
+}
+
+.market-item {
+  background-color: rgb(247, 246, 246);
+  border: 1px solid #ccc;
+  padding: 10px;
+  position: relative;
+  height: 470px;
+}
+
+
+
+.add-to-cart-button {
+  display: none;
+  position: absolute;
+  bottom: 10px;
+  left: 25%;
+  transform: translateX(-50%);
+  background-color: rgb(26, 25, 25);
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.add-to-cart-button:hover{
+  opacity: 0.9;
+}
+
+.market-item:hover .add-to-cart-button {
+  display: block;
+}
+
+
+.market-item img {
+  padding: 5px;
+  width: 270px; /* Make sure all images fill their container */
+  height: 300px; /* Set a fixed height for consistent image sizes */
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+  
+}
+
+.pagination {
+  
+  display: flex;
+  justify-content: center;
+  margin-top: 1550px;
+ 
+}
+
+.page-button {
+ 
+  background-color: darkgreen;
+  padding: 5px;
+  color: white;
+  cursor: pointer;
+  border-radius: 2px;
+  margin-bottom: 20px;
+  margin-left: 550px;
+  margin-right: -150px;
+}
+
+.page-button1 {
+ 
+  background-color: darkgreen;
+  padding: 5px;
+  color: white;
+  cursor: pointer;
+  border-radius: 2px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  
+}
+.item-price-section{
+  display: flex;
+}
+
+.item-name{
+  font-size: 20px;
+  font-weight: 800;
+ margin-bottom: 25px;
+}
+
+.item-year{
+  font-weight: 500;
+  font-size: 16px;
+  position: absolute;
+ bottom: 80px;
+ left: 10px;
+}
+.item-price{
+  font-size: 15px;
+  background-color: darkgreen;
+  color: white;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 6px;
+  border-radius: 2px;
+
+}
+
+.search-bar{
+  
+  margin-top: 1050px;
+  margin-left: 700px;
+  margin-bottom: 20px;
+}
+.search-input{
+  /* position: absolute; */
+   width: 500px;
+   height: 40px;
+   padding-left: 10px;
+   border-radius: 1px;
+   
+}
+
+.search-icon{
+  background-color: green;
+  color: white;
+  padding: 10px;
+  width: 50px;
+  height: 20px;
+  border-radius: 2px;
+  
+}
+
+.cart-icon {
+  position: absolute;
+  cursor: pointer;
+  margin-left: 1290px;
+  margin-top: -50px;
+}
+
+.cart-icon .cart-count {
+  position: absolute;
+  top: -5px;
+  right: -10px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 5px;
+  font-size: 12px;
+}

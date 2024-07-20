@@ -1,0 +1,126 @@
+.sidebar {
+    width: 295px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: whitesmoke;
+    border-radius: 3px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: flex; /* Set flex display to align items horizontally */
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    background-color: rgba(27, 89, 28, 0); /* Transparent background */
+}
+
+li:hover {
+    background-color: rgba(27, 89, 28, 0.3); /* Transparent color on hover */
+}
+
+.active,
+.active:hover {
+    background-color: #b8e62c; /* Active color: #add436*/
+    border-radius: 3px;
+}
+
+.active span {
+    color: white;
+    font-weight: bold;
+}
+
+/* Icons */
+li svg {
+    margin-right: 10px; 
+}
+
+/* Active state for icons */
+.active svg {
+    color: whitesmoke; /* Change icon color for active state */
+}
+
+.p1 {
+    margin-bottom: 6px; /* Adjust spacing as needed */
+    margin-left: 10px;
+    margin-top: 12px;
+    font-weight: bolder; /* Make text bold */
+    color: whitesmoke /* Set text color */
+  }
+
+  .p2 {
+    margin-bottom: 7px; /* Adjust spacing as needed */
+    margin-left: 10px;
+    margin-top: 6px;
+    font-weight: bolder; /* Make text bold */
+    color: whitesmoke /* Set text color */
+  }
+
+  .donate{
+    height: 190px;
+    width: 180px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-bottom: 30px;
+  }
+
+.logout-container {
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.logout-icon {
+    margin-left: 10px;
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+    margin-top: 15px;
+}
+
+.logout-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: whitesmoke;
+    font-size: 1rem;
+    transition: background-color 0.2s ease-in-out;
+    margin-top: 15px;
+}
+
+
+.logout-container.active {
+    opacity: 0.7;
+    border-left: 3px solid #333; 
+}
+
+
+
+.line{
+    width: 295px;
+    height: 1px;
+}
+
+.divider {
+    
+    margin-bottom: 3px ;
+    border: 0;
+    border-top: 1px solid #add436; /* Adjust color as needed */
+}
+
+.divider1 {
+    margin-top: -2px;
+    /* margin: 20px 0; */
+    border: 0;
+    border-top: 1px solid #add436; /* Adjust color as needed */
+}

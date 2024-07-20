@@ -1,0 +1,148 @@
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.signup-content {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  width: 1000px;
+  height: 620px; 
+  display: flex;
+}
+
+.signup-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-logo {
+  width: 900px;
+  height: 620px;
+  border-radius: 10px;
+  object-position: 40% 60%;
+  object-fit: cover;
+}
+
+.title{
+  font-size: 20px;
+}
+
+.signup-title {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.signup-form {
+  flex: 1;
+    padding: 20px;
+    
+}
+
+.signup-inputs {
+  margin-bottom: 20px;
+}
+
+.signup-input {
+  margin-left: 45px;
+  width: 400px;
+  padding: 10px;
+  margin-bottom: 4px;
+  color: #989898;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+
+.signup-input1 {
+  
+  width: 335px;
+  padding: 10px;
+  margin-bottom: 4px;
+  color: #989898;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+.showpass{
+  margin-left: 0px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+
+.show-password {
+  display: flex;
+  align-items: center;
+  margin-top: 2px;
+  margin-bottom: 3px;
+}
+
+.show-password input {
+  margin-left: 45px;
+  margin-right: 7px;
+  margin-bottom: 4px;
+}
+
+.signup-btn {
+  width: 400px;
+  padding: 10px;
+  background-color: #343a40;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 45px;
+}
+
+.signup-btn:hover {
+  opacity: 0.9;
+}
+
+.signup-error {
+  color: red;
+  margin-bottom: 10px;
+  margin-left: 56px;
+  font-size: 15px;
+}
+
+.registration-success {
+  color: green;
+  font-size: 18px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.login{
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.signup-message{
+  margin-left: 50px;
+}
+
+/* .country-code-select {
+  width: 150px; 
+}*/
+
+.country-flag-icon {
+  padding: 20px;
+  width: 20px; /* Adjust size as needed */
+  margin-right: 5px; /* Add spacing between flag and code */
+}
+.phone-input-container {
+  display: flex;
+}
+
+.country-code-dropdown{
+  width: 65px;
+  padding: 10px;
+  margin-bottom: 4px;
+  color: #989898;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  margin-left: 44px;
+}

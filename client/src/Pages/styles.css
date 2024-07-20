@@ -1,0 +1,14 @@
+:root{
+
+    --sidebar-color: #fbf3f3;
+    --primary-color:rgb(13, 96, 13);
+    --secondary-color: #f3f3f3;
+    --toggle-color: #DDDD;
+    --text-color:#707070;
+
+    /*Transitions*/
+    --tran-03: all 0.2s ease;
+    --tran-03:all 0.3s ease;
+    --tran-04:all 0.4s ease;
+    --tran-05:all 0.5s ease;
+}

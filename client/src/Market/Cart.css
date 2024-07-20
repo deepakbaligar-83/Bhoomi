@@ -1,0 +1,115 @@
+    .cartcont {
+      position: relative;
+      margin-top: 20px;
+      margin-left: 450px;
+    }
+    
+    .cart {
+      position: absolute;
+      background-color: #f6f3f3;
+      padding: 16px;
+      width: 600px;
+      top: 0;
+      right: -280px;
+      z-index: 1000; 
+      border-radius: 4px;
+    }
+    
+    .carth2 {
+      position: absolute;
+    }
+    
+    .cartu {
+      list-style: none;
+      padding: 0;
+    }
+    
+    .carti {
+      padding: 10px;
+      border-bottom: 1px solid #ccc;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .carti:last-child {
+      border-bottom: none;
+    }
+    
+    .item-details {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .cart-item-name {
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+    
+    .cart-item-price {
+      color: #333;
+    }
+    
+    .quantity-controls {
+      display: flex;
+      align-items: center;
+    }
+    
+    .quantity-button {
+      background-color: darkgreen;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      cursor: pointer;
+      border-radius: 4px;
+      margin: 0 5px;
+    }
+    
+    .quantity {
+      margin: 0 10px;
+    }
+    
+    .remove-button {
+      background-color: #f44336;
+      color: white;
+      border: none;
+      padding: 7px ;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    
+    .cart-divider {
+      border: none;
+      height: 1px;
+      background-color: #333;
+      margin: 20px 0;
+    }
+
+    .cart-summary {
+      margin-top: 20px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+
+    .carth1{
+       font-weight: 800;
+    }
+
+
+    .checkout-button {
+      background-color: darkgreen;
+      color: white;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+      border-radius: 4px;
+      width: 100%;
+      font-size: 16px;
+      font-weight: bold;
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    .checkout-button:hover{
+      opacity: 0.9;
+    }
