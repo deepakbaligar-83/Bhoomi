@@ -2,7 +2,7 @@
   <br>
 Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive crop management system to boost your agricultural productivity and profitability.  <br>
   <br>
-<h2>Features: </h2>  <br>
+<h2>Features of Application: </h2>  <br>
 <ul style="list-style-type: disc; margin-left: 20px;">
   <li><strong>Crop Information & Management:</strong> Access detailed crop data, including growth conditions and recommendations.</li>
   <li><strong>Climate Data:</strong> Stay ahead with real-time climate data and forecasts to make informed decisions.</li>
@@ -16,4 +16,11 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
   <li><strong>React:  </strong>Frontend Framework</li>
    <li><strong>Springboot (Java):  </strong>Backend Framework</li>
   <li><strong>MySql:  </strong>Database</li>
+</ul>
+
+<h2>Team :</h2>
+<ul style="list-style-type: disc; margin-left: 20px;">
+  <li><strong>1. Deepak Baligar</strong></li>
+   <li><strong>2. Saisamarth Udikeri</strong></li>
+  <li><strong>3. Guruprasad Pattar</strong></li>
 </ul>
