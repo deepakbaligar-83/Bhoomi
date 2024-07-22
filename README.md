@@ -37,7 +37,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 
 Explore the backend code for Bhoomi:
 
-🔗 **GitHub Link:** [Bhoomi Backend](https://github.com/deepakbaligar-83/Bhoomi-Backend.git)
+🔗 **GitHub Link:** [Bhoomi-Backend](https://github.com/deepakbaligar-83/Bhoomi-Backend.git)
 
 
 
