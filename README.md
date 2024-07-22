@@ -25,8 +25,9 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
   <li><strong>OpenWeather API-</strong> The user can fetch climatic information.</li>
 </ul>
 
-[Deepak Baligar](https://github.com/deepakbaligar-83)
-[Saisamarth Udikeri](https://github.com/Saisamarth21)
+[Deepak Baligar](https://github.com/deepakbaligar-83)<br>
+[Saisamarth Udikeri](https://github.com/Saisamarth21)<br>
+[Guruprasad Pattar](https://github.com/Guruprasad006)
 
 
 
