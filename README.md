@@ -13,9 +13,9 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 <br>
 <h2>Technologies Used: </h2>
 <ul style="list-style-type: disc; margin-left: 20px;">
-  <li><strong>React:  </strong>Frontend Framework</li>
-   <li><strong>Springboot (Java):  </strong>Backend Framework</li>
-  <li><strong>MySql:  </strong>Database</li>
+  <li><strong>React :  </strong>Frontend Framework</li>
+   <li><strong>Springboot (Java) :  </strong>Backend Framework</li>
+  <li><strong>MySql :  </strong>Database</li>
 </ul>
 <h3>API'S used</h3>
 <ul style="list-style-type: disc; margin-left: 20px;">
