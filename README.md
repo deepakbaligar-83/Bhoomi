@@ -27,7 +27,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 
 
 <h2>Team :</h2>
-<a href="https://github.com/Saisamarth21" text-decoration = none>2. Saisamarth Udikeri</a>
+[2. Saisamarth Udikeri](https://github.com/Saisamarth21)
 </ul>
 
 ## Backend
