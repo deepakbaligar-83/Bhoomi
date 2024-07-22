@@ -1,4 +1,4 @@
-                                                   🌏 Bhoomi - A Crop Based Management System
+<h1 align="center">🌏 Bhoomi - A Crop Based Management System</h1>
   <br>
   <br>
 Welcome to Bhoomi! 🚜🌱 This powerful tool integrates a comprehensive crop management system to boost your agricultural productivity and profitability.  <br>
