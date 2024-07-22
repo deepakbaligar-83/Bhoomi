@@ -29,7 +29,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 <h2>Team :</h2>
 [Saisamarth Udikeri](https://github.com/Saisamarth21)
 
-
+<br>
 ## Backend
 
 Explore the backend code for Bhoomi:
