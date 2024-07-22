@@ -29,9 +29,9 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 <h2>Team :</h2>
 [Saisamarth Udikeri](https://github.com/Saisamarth21)
 
-<br>
-## Backend
 
+
+<h2>Backend</h2>
 Explore the backend code for Bhoomi:
 
 🔗 **GitHub Link:** [Bhoomi-Backend](https://github.com/deepakbaligar-83/Bhoomi-Backend.git)
