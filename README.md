@@ -26,12 +26,8 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 </ul>
 
 
-<h2>Team :</h2>
-<li>
- [Bhoomi-Backend](https://github.com/deepakbaligar-83/Bhoomi-Backend.git)
+[Saisamarth Udikeri](https://github.com/Saisamarth21)
 
-
-</li>
 
 
 <h2>Backend</h2>
