@@ -17,6 +17,13 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
    <li><strong>Springboot (Java):  </strong>Backend Framework</li>
   <li><strong>MySql:  </strong>Database</li>
 </ul>
+<h3>API'S used</h3>
+<ul style="list-style-type: disc; margin-left: 20px;">
+  <li>News API - It fetches news about farming, techniques etc.</li>
+  <li>Google Sign-In API - The user can sign in with google account.</li>
+  <li>OpenWeather API- The user can fetch climatic information.</li>
+</ul>
+
 
 <h2>Team :</h2>
 <ul style="list-style-type: disc; margin-left: 20px;">
