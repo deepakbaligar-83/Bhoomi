@@ -19,9 +19,9 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 </ul>
 <h3>API'S used</h3>
 <ul style="list-style-type: disc; margin-left: 20px;">
-  <li>News API - It fetches news about farming, techniques etc.</li>
-  <li>Google Sign-In API - The user can sign in with google account.</li>
-  <li>OpenWeather API- The user can fetch climatic information.</li>
+  <li><strong>News API -</strong> It fetches news about farming, techniques etc.</li>
+  <li><strong>Google Sign-In API -</strong> The user can sign in with google account.</li>
+  <li><strong>OpenWeather API-</strong> The user can fetch climatic information.</li>
 </ul>
 
 
