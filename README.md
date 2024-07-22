@@ -3,18 +3,21 @@
 Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive crop management system to boost your agricultural productivity and profitability.  <br>
 <br>
 <h3>1.Home Page</h3>
-![Screenshot 2024-07-21 143013](https://github.com/user-attachments/assets/eb3463ba-eb2b-440e-8bb6-80ca530cae6d)
+![localhost_3000_(High res)](https://github.com/user-attachments/assets/a3f5fca2-055b-4d11-b86b-c1439fd24b73)
 
+<br>
 <h3>2. Login Page</h3>
-![Screenshot 2024-07-21 142946](https://github.com/user-attachments/assets/34d2c39b-273a-4c49-b24e-668e3c8cae6b)
+![Screenshot 2024-07-21 142946](https://github.com/user-attachments/assets/d30cd997-4b64-4ea8-ab30-b0527ce89257)
 
 
+<br>
 <h3>3. SignUp Page</h3>
-![Screenshot 2024-07-21 143001](https://github.com/user-attachments/assets/e05b523f-f102-4b08-9842-fa643fdfe6f4)
+![Screenshot 2024-07-21 143001](https://github.com/user-attachments/assets/4632ad68-1c3e-441e-9bdf-8a1e6532f020)
 
 
+<br>
 <h3>4. Dashboard Page</h3>
-![Screenshot 2024-07-21 142930](https://github.com/user-attachments/assets/a022993a-bbc2-4de2-9a6b-dbf11c00a472)
+![Screenshot 2024-07-21 142930](https://github.com/user-attachments/assets/dc393b40-e7e3-474f-9e6e-e83d3384574f)
 
 
 <br>
