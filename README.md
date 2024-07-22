@@ -11,7 +11,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
   <li><strong>Crop Recommendations:</strong> Optimize your crop selection with data-driven recommendations to maximize returns.</li>
   <li><strong>Second-hand Market:</strong> Explore our marketplace for second-hand agricultural equipment and supplies, helping low-waged farmers save costs and invest wisely.</li>
 </ul>
-<br>
+
 <h2>Technologies Used: </h2>
 <ul style="list-style-type: disc; margin-left: 20px;">
   <li><strong>React :  </strong>Frontend Framework</li>
