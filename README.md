@@ -5,17 +5,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 <h3>1.Home Page</h3>
 ![Image Alt](https://github.com/deepakbaligar-83/Bhoomi/blob/914ef2d6c4478b52ed218621605aac338f47d9ca/Homepage.png)
 <br>
-<h3>2. Login Page</h3>
-![Image Alt](https://github.com/deepakbaligar-83/Bhoomi/blob/914ef2d6c4478b52ed218621605aac338f47d9ca/Login.png)
 
-
-<br>
-<h3>3. SignUp Page</h3>
-![Image Alt](https://github.com/deepakbaligar-83/Bhoomi/blob/914ef2d6c4478b52ed218621605aac338f47d9ca/Signup.png)
-
-<br>
-<h3>4. Dashboard Page</h3>
-![Image Alt](https://github.com/deepakbaligar-83/Bhoomi/blob/914ef2d6c4478b52ed218621605aac338f47d9ca/Dashboard.png)
 
 
 <br>
