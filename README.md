@@ -1,7 +1,12 @@
 <h1 align="center">🌏 Bhoomi - A Crop Based Management System</h1>
   <br>
 Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive crop management system to boost your agricultural productivity and profitability.  <br>
-  <br>
+<br>
+![Screenshot 2024-07-21 142930](https://github.com/user-attachments/assets/a022993a-bbc2-4de2-9a6b-dbf11c00a472)<br>
+![Screenshot 2024-07-21 142946](https://github.com/user-attachments/assets/34d2c39b-273a-4c49-b24e-668e3c8cae6b)<br>
+![Screenshot 2024-07-21 143001](https://github.com/user-attachments/assets/e05b523f-f102-4b08-9842-fa643fdfe6f4)<br>
+![Screenshot 2024-07-21 143013](https://github.com/user-attachments/assets/eb3463ba-eb2b-440e-8bb6-80ca530cae6d)<br>
+<br>
 <h2>Features of Application: </h2>  <br>
 <ul style="list-style-type: disc; margin-left: 20px;">
   <li><strong>Crop Information & Management:</strong> Access detailed crop data, including growth conditions and recommendations.</li>
