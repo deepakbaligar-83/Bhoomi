@@ -20,7 +20,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 
 <h2>Team :</h2>
 <ul style="list-style-type: disc; margin-left: 20px;">
-  <li><strong>1. Deepak Baligar</strong></li>
-   <li><strong>2. Saisamarth Udikeri</strong></li>
-  <li><strong>3. Guruprasad Pattar</strong></li>
+  <strong>1. Deepak Baligar</strong>
+  <strong>2. Saisamarth Udikeri</strong>
+  <strong>3. Guruprasad Pattar</strong>
 </ul>
