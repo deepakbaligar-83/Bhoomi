@@ -4,7 +4,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 <br>
 <h3>1.Home Page</h3>
 <br>
-![Screenshot 2024-07-21 143013](https://github.com/user-attachments/assets/f3f70866-a17a-47a0-998a-e48c7af29c43)
+![Screenshot 2024-07-21 142930](https://github.com/user-attachments/assets/56aca27c-2f59-4b45-9ee9-aada0a467c12)
 <br>
 
 
