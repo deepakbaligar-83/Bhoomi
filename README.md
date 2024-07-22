@@ -3,7 +3,7 @@
 Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive crop management system to boost your agricultural productivity and profitability.  <br>
 <br>
 <h3>1.Home Page</h3>
-![Image Alt](https://github.com/deepakbaligar-83/Bhoomi/blob/914ef2d6c4478b52ed218621605aac338f47d9ca/Homepage.png)
+![Screenshot 2024-07-21 143013](https://github.com/user-attachments/assets/f3f70866-a17a-47a0-998a-e48c7af29c43)
 <br>
 
 
