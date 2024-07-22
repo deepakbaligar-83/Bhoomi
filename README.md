@@ -32,10 +32,11 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
 <strong>3. Guruprasad Pattar</strong><br>
 </ul>
 
-##Backend
+## Backend
+
 Explore the backend code for Bhoomi:
 
-[**Bhoomi Backend Repository**](https://github.com/deepakbaligar-83/Bhoomi-Backend.git) - Check out the code here!
+🔗 **GitHub Link:** [Bhoomi Backend](https://github.com/deepakbaligar-83/Bhoomi-Backend.git)
 
 
 
