@@ -10,6 +10,7 @@ Welcome to Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a comprehensive
   <li><strong>Fertilizer Recommendations:</strong> Receive fertilizer suggestions based on soil and crop requirements.</li>
   <li><strong>Crop Recommendations:</strong> Optimize your crop selection with data-driven recommendations to maximize returns.</li>
   <li><strong>Second-hand Market:</strong> Explore our marketplace for second-hand agricultural equipment and supplies, helping low-waged farmers save costs and invest wisely.</li>
+  <li><strong>News:</strong> It provides news about farming and its related stuff.</li>
 </ul>
 
 <h2>Technologies Used: </h2>
